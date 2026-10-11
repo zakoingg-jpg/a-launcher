@@ -1,0 +1,6 @@
+{
+  "name": "ios launcher 4",
+  "description": "A classic retro iOS 4 skeuomorphic launcher featuring water droplets wallpaper, glass dock with reflections, glossy icons, folder split animation, jiggle mode, and real app launching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
